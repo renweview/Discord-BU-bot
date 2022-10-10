@@ -4,4 +4,4 @@
 
 To Do: 
 - REST API integration
-- check for downtime on host server. 
+- check for downtime on host
